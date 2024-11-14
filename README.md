@@ -1,5 +1,7 @@
 # Muro Sonoro - Expotaku Coruña 2024
-![LilA2Wallpaper](https://github.com/user-attachments/assets/d8e3c2fd-f0e6-4b11-91b6-8360429b0bbb)
+
+![LilA2Wallpaper](https://github.com/user-attachments/assets/d5cfb194-d985-4f65-9e0b-59eabb9b8572)
+
 
 ### ¡Bienvenido!
 
