@@ -1,4 +1,4 @@
-# Muro Sonoro Expotaku
+# Muro Sonoro - Expotaku Coruña 2024
 
 ### ¡Bienvenido!
 
