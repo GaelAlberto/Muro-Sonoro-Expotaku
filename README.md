@@ -1,7 +1,8 @@
 # Muro Sonoro Expotaku
 
-¡Bienvenido!
-![image](https://github.com/user-attachments/assets/aec3aacc-25b4-473a-9feb-a4f63c3ea337)
+
+<center>¡Bienvenido!</center>
+
 
 Aquí puedes navegar por las melodías que diversos jugadores han moldeado en Maestosia durante la Expotaku Coruña 2024.
 
