@@ -1,7 +1,7 @@
 # Muro Sonoro - Expotaku Coruña 2024
 ### ¡Bienvenido!
 
-🎵🎵🎵Aquí puedes navegar por las melodías que diversos jugadores han moldeado en Maestosia durante la Expotaku Coruña 2024🎵🎵🎵
+🎵🎵🎵Aquí puedes navegar por las melodías que diversos jugadores han moldeado en Maestosia durante la Expotaku Coruña 2024.
 
 Si formas parte de este elenco de creadores de armonías, puedes encontrar la tuya por el nombre con el que la creaste.
 
